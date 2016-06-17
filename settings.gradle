@@ -1,1 +1,1 @@
-include ':app', ':delegates'
+include ':delegates'
