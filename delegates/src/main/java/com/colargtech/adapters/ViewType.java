@@ -1,4 +1,4 @@
-package com.colargtech.delegates;
+package com.colargtech.adapters;
 
 /**
  * @author gdfesta.
